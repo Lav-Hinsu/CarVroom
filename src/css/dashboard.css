@@ -1,0 +1,66 @@
+header { text-align: center; margin-right: 30px; white-space: normal;  margin-bottom: 5vw; }
+header > p { display: inline-block; color: cornflowerblue; }
+header span { display: inline; font-size:small}
+.cardheader{
+    margin-top: 5vh;
+    text-align: center;
+    margin-bottom: 3vh;
+    font-weight: lighter;
+    color:grey;
+}
+.img{
+    padding: none;
+    display:inherit;
+    width: 30vh;
+    height: 15vh;
+    border-radius:3px;
+}
+.carname{
+    margin-left: 4ch;
+    font-weight: normal;
+}
+.cardicon{
+    margin-left: 4ch;
+    font-weight: lighter;
+    color:grey;
+    margin-bottom: 1ch;
+    white-space: nowrap;
+}
+.carcost{
+    margin-left: 15vh;
+    font-weight: normal;
+    white-space: nowrap;
+}
+.cardbutton{
+    color: rgb(77, 77, 77);
+    white-space: nowrap;
+}
+.footer{
+    margin-top: 20vh;
+    margin-left: 10vh ;
+    margin-bottom: 1vh;
+}
+.footertext{
+    font-size: smaller;
+}
+.footericon{
+    margin-top: 2vh;
+    margin-left:10vh;
+    margin-bottom:5vh;
+}
+.bottomnav{
+    padding-top: 10vh;
+    padding-left: 10vh;
+    padding-bottom: 2vh;
+    color:grey;
+}
+.privacy{
+    padding-left:50vw;
+    font-weight: lighter;
+    font-size: small;
+}
+.tos{
+    padding-left: 2vw;
+    font-weight: lighter;
+    font-size: small;
+}
