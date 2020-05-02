@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## CarVroom
 
-A Mock Dashboard for booking cards. built using react-js.
+A Mock Dashboard for booking cars. built using react-js.
 
 ## Available Scripts
 
